@@ -43,3 +43,6 @@ solve - решить загадку
 help - показать справку
 
 quit или exit - выйти из игры
+
+## Asciinema
+https://asciinema.org/a/xZiSSq6jx4FcsGMF
